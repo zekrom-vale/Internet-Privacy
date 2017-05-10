@@ -1,0 +1,48 @@
+function topHead(pg){
+var h= '<a href="', 
+t='"><button>', 
+e='</button></a>',
+a2='index.html"';
+
+var l='<br/><br/><alert style="color:red">I do not support any political action(s) mentioned, nor anything related to politics.</alert>';
+
+var a = h + a2 + t + 'Home' + e, 
+b, 
+c = h + 'Ph1.html' + t + 'Politics' + e, 
+d = h + 'ref.html' + t + 'References' + e, 
+s='</a><button>Spacer</button>';
+
+    switch(pg){
+        case "index":
+            a="";
+            a2='#top"';
+            l="";
+            break;
+        case "b":
+            b="";
+            break;
+        case "Ph1":
+            c="";
+            break;
+        case "ref":
+            d="";
+            l="";
+            break;
+        case "other":
+            break;
+        default:
+            console.log('pg Error: pg= "' + pg + '"');
+            break;
+    }
+    document.getElementById("top").innerHTML= '<header class="nav"><print>Site Created by Shawn Graven<br/></print>' + h + a2 + '><img src="img/Banner.jpg" alt="Internet Pravacy Header" style="width:100vw; height:30vh;object-fit: cover"></a></header>' + 
+    '<nav class="nav">' + 
+    s + 
+    a + 
+    h + 'https://firstpartysimulator.net/tracker" title="/! External Site /!" target="_blank"><button title="/! External Site /!">Detect' + e + 
+    c + 
+    d + 
+    s + '</nav>';
+    document.getElementById("bot").innerHTML= '<footer class="center"><p>Copyright &copy; zekrom_vale</p>' + h + 'https://www.patreon.com/zekrom_vale" title="Thank You!...">Support me on Patreon!</a>' +
+    l +
+'</footer>';
+}

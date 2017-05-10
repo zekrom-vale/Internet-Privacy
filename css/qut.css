@@ -1,0 +1,17 @@
+q,
+blockquote{
+    quotes: '&ldquo;' '&rdquo;' '&lsquo;' '&rsquo;'
+}
+blockquote{
+    border-left:12px solid #cfd8dc;
+    padding: 0 0 0 18px;
+    margin-left: 12px;
+    margin:0;
+}
+ex,
+more,
+abbr{
+    cursor:help;
+    font-weight:600;
+    /*100 multiples and words are valid*/
+}

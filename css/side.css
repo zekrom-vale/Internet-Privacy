@@ -1,0 +1,22 @@
+aside .list{
+    font-size:calc(7px + 2vw/3);
+    text-transform:capitalize;
+    font-family: monospace
+}
+aside .list b{
+    font-size:25px;
+}
+aside h2{
+    font-variant:small-caps
+}
+aside{
+    padding:12px;
+    width:calc(30vw + -24px);
+    font-family:'Impact', Charcoal, sans-serif;
+    background:black;
+    color:white
+}
+content>*{
+    padding:12px;
+    width:calc(70vw + -24px);
+}

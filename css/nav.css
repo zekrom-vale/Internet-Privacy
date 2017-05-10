@@ -1,0 +1,54 @@
+nav {
+    background-color:rgb(0,0,0); 
+    background-color:rgba(0,0,0,.6);
+    width:100vw;
+    text-align:center;
+    margin:0 auto;
+    padding: 10px 0;
+    text-decoration:none
+}
+nav a{
+    text-decoration:none
+}
+nav button:hover {
+    color:#a7d2dc;
+    height:8vh;/*Expanded*/
+    background-color:lime; 
+}
+.button_top:hover{
+    background-color:lime; 
+    color:blue
+    }
+.button_top,
+nav a button{
+    font-family: "Verdana",sans-serif;
+    height:6vh;/*Contracted*/
+    background-color:#a7d2dc;
+    color:white;
+    font-weight:bold;
+    border:none 0;
+    cursor:pointer;
+    border-radius:8px;
+    -webkit-transition: height 2s cubic-bezier(0, 0, 0.2, 1);
+    -moz-transition:height 2s cubic-bezier(0, 0, 0.2, 1);
+    -o-transition:height 2s cubic-bezier(0, 0, 0.2, 1);
+    transition:height 2s cubic-bezier(0, 0, 0.2, 1);
+    display:inline-block;
+    padding:10px;
+    font-size:calc(1vw + 7px);
+    margin:auto 5px
+}
+.button_top:active,
+nav button:active {color:black}
+nav button:visited {color:red}
+:root nav>button{
+    opacity:0;
+    height:8vh;
+    width:10px;
+    display:inline-block;
+    padding:10px 0;
+    font-size:calc(1vw + 7px);
+    margin:5px;
+    font-weight:bold;
+    border:none;
+}
