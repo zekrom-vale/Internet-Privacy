@@ -7,7 +7,7 @@ a2='index.html"';
 var l='<br/><br/><alert style="color:red">I do not support any political action(s) mentioned, nor anything related to politics.</alert>';
 
 var a = h + a2 + t + 'Home' + e, 
-b, 
+b = h + 'how.html' + t + 'How they Get it' + e, 
 c = h + 'Ph1.html' + t + 'Politics' + e, 
 d = h + 'ref.html' + t + 'References' + e, 
 s='</a><button>Spacer</button>';
@@ -18,7 +18,7 @@ s='</a><button>Spacer</button>';
             a2='#top"';
             l="";
             break;
-        case "b":
+        case "how":
             b="";
             break;
         case "Ph1":
@@ -38,7 +38,8 @@ s='</a><button>Spacer</button>';
     '<nav class="nav">' + 
     s + 
     a + 
-    h + 'https://firstpartysimulator.net/tracker" title="/! External Site /!" target="_blank"><button title="/! External Site /!">Detect' + e + 
+    h + 'https://firstpartysimulator.net/tracker" title="/! External Site /!" target="_blank"><button title="! External Site !">Detect' + e + 
+	b +
     c + 
     d + 
     s + '</nav>';
