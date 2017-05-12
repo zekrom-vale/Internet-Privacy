@@ -1,7 +1,7 @@
 var latlon, 
 lct, 
 st= "https://maps.googleapis.com/maps/api/staticmap?center=", 
-end = "&size=400x300&sensor=false&key=AIzaSyD9TB9eUVPyqdUCX1j7qdRDWprPJ31xDVs";
+end = "&size=400x300&sensor=false&key=AIzaSyBu        -916DdpKAjTmJNIgngS6HL_kDIKU0aU";
 function checkCookieLct() {
     var lct=getCookieLct("location");
     if (lct !== "") {
