@@ -7,3 +7,5 @@ To use this without errors, donload the .zip, <br/>
 	un-zip the file then <br/>
 	run index.html<br/>
 		Note!: Google Chrome does not keep local cookie files.
+<br/>
+<a href="http://microify.com/1VeN">In development link</a>
