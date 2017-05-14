@@ -1,5 +1,5 @@
 # Internet-Privacy
-Go to https://cdn.rawgit.com/zekrom-vale/Internet-Privacy/6d5fb951/index.html to view <br/>
+Go to https://cdn.rawgit.com/zekrom-vale/Internet-Privacy/788e1c66/index.html to view <br/>
 	Note!: This is an imperfect version of the website and some css is not setting, <br/>
 	along with external images.<br/>
 <br/>
