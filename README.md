@@ -1,6 +1,6 @@
 # Internet-Privacy
 <h2>
-Go to <a href="http://adf.ly/16713359/banner/rawgit.com/zekrom-vale/Internet-Privacy/v1.2-beta/index.html" target="_blank">Internet-Privacyindex.html</a> to view
+Go to <a href="http://adf.ly/16713359/banner/cdn.rawgit.com/zekrom-vale/Internet-Privacy/v1.3-beta/index.html" target="_blank">Internet-Privacyindex.html</a> to view
 <h2>
 <br/>
 <h2>
