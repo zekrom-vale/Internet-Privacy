@@ -8,4 +8,4 @@ To use this without errors, donload the .zip, <br/>
 	run index.html<br/>
 		Note!: Google Chrome does not keep local cookie files.
 <br/>
-<a href="http://microify.com/1VeN">In development link</a>
+<a href="http://adf.ly/16713359/banner/rawgit.com/zekrom-vale/Internet-Privacy/v1.2-beta/index.html" target="_blank">In development link</a>
