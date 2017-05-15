@@ -6,7 +6,7 @@ Go to <a href="http://adf.ly/16713359/banner/rawgit.com/zekrom-vale/Internet-Pri
 <h2>
 To use this as a file 
 <h2>
-	<li>Donload the .zip</li>
+	<li><a href="http://adf.ly/16713359/banner/github.com/zekrom-vale/Internet-Privacy/archive/master.zip"> Donload the .zip</a></li>
 	<li>Un-zip the file</li>
 	<li>Run index.html</li>
 	<small>
