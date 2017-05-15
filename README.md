@@ -1,11 +1,21 @@
 # Internet-Privacy
-Go to <a href="http://adf.ly/16713359/banner/rawgit.com/zekrom-vale/Internet-Privacy/v1.2-beta/index.html" target="_blank">Internet-Privacyindex.html</a> to view <br/>
-	Note!: This is an imperfect version of the website and some css is not setting, <br/>
-	along with external images.<br/>
+<h2>
+Go to <a href="http://adf.ly/16713359/banner/rawgit.com/zekrom-vale/Internet-Privacy/v1.2-beta/index.html" target="_blank">Internet-Privacyindex.html</a> to view
+<h2>
 <br/>
-To use this without errors, donload the .zip, <br/>
-	un-zip the file then <br/>
-	run index.html<br/>
+<h2>
+To use this as a file 
+<h2>
+	<li>Donload the .zip</li>
+	<li>Un-zip the file</li>
+	<li>Run index.html</li>
+	<small>
 		Note!: Google Chrome does not keep local cookie files.
+	</small>
 <br/>
+
+<p>
 <a href="http://adf.ly/16713359/cdn.rawgit.com/zekrom-vale/Internet-Privacy/v1.2-beta/index.html" target="_blank">In development link</a>
+<br/>
+Use <a href="http://adf.ly/16713359/rawgit.com/" target="_blank">rawgit.com</a>
+</p>
