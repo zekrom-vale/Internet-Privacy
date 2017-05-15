@@ -1,6 +1,10 @@
 /**********
 ---Size---
 **********/
+html{
+	quotes:"&ldquo; &rdquo; &lsquo; &lsquo;"
+}
+/*Why is this not setting it?!*/
 #mapholder img{
     max-width:60vw
 }

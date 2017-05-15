@@ -37,7 +37,7 @@ s= '</a><button>Spacer</button>';
     document.getElementById("top").innerHTML= '<header class="nav"><print>Site Created by Shawn Graven<br/></print>'+ h+ a2+ '><img src="img/Banner.jpg" alt="Internet Pravacy Header" style="width:100vw; height:30vh; object-fit: cover"></a></header>'+ 
     '<nav class="nav">'+ 
     s+ a+ 
-    h+ 'http://adf.ly/16713359/banner/firstpartysimulator.net/tracker" title="/! External Site /!" target="_blank"><button title="! External Site !">Detect'+ e+ 
+    h+ 'http://adf.ly/16713359/banner/firstpartysimulator.net/tracker" title="! External Site !" target="_blank"><button title="! External Site !">Detect'+ e+ 
 	b+ c+ d+ 
     s+ '</nav>';
 	a=b=c=d=a2=t=s=e= null;
