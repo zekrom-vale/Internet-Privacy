@@ -8,7 +8,7 @@ To use this as a file
 <h2>
 	<li><a href="http://adf.ly/16713359/banner/github.com/zekrom-vale/Internet-Privacy/archive/master.zip"> Donload the .zip</a></li>
 	<li>Un-zip the file</li>
-	<li>Run index.html</li>
+	<li>Run index.html in a browser like Chrome</li>
 	<small>
 		Note!: Google Chrome does not keep local cookie files.
 	</small>
